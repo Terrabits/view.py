@@ -1,0 +1,2 @@
+pyinstaller @ file:///Users/lalic/Documents/Python/view.py/lib/pyinstaller
+PySide2
